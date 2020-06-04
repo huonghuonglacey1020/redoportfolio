@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/huonghuonglacey1020/redoportfolio/static/css/main.8b97dfe1.chunk.css",
-    "main.js": "/huonghuonglacey1020/redoportfolio/static/js/main.3f4d1cd2.chunk.js",
-    "main.js.map": "/huonghuonglacey1020/redoportfolio/static/js/main.3f4d1cd2.chunk.js.map",
-    "runtime-main.js": "/huonghuonglacey1020/redoportfolio/static/js/runtime-main.cfb73204.js",
-    "runtime-main.js.map": "/huonghuonglacey1020/redoportfolio/static/js/runtime-main.cfb73204.js.map",
-    "static/css/2.e4346227.chunk.css": "/huonghuonglacey1020/redoportfolio/static/css/2.e4346227.chunk.css",
-    "static/js/2.da453778.chunk.js": "/huonghuonglacey1020/redoportfolio/static/js/2.da453778.chunk.js",
-    "static/js/2.da453778.chunk.js.map": "/huonghuonglacey1020/redoportfolio/static/js/2.da453778.chunk.js.map",
-    "index.html": "/huonghuonglacey1020/redoportfolio/index.html",
-    "precache-manifest.46e860378b2ba694bdb4dcd9e29a154c.js": "/huonghuonglacey1020/redoportfolio/precache-manifest.46e860378b2ba694bdb4dcd9e29a154c.js",
-    "service-worker.js": "/huonghuonglacey1020/redoportfolio/service-worker.js",
-    "static/css/2.e4346227.chunk.css.map": "/huonghuonglacey1020/redoportfolio/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.8b97dfe1.chunk.css.map": "/huonghuonglacey1020/redoportfolio/static/css/main.8b97dfe1.chunk.css.map",
-    "static/js/2.da453778.chunk.js.LICENSE.txt": "/huonghuonglacey1020/redoportfolio/static/js/2.da453778.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/huonghuonglacey1020/redoportfolio/static/media/profile.46a0ed09.jpg"
+    "main.css": "/redoportfolio/static/css/main.63f1b847.chunk.css",
+    "main.js": "/redoportfolio/static/js/main.d1f2320d.chunk.js",
+    "main.js.map": "/redoportfolio/static/js/main.d1f2320d.chunk.js.map",
+    "runtime-main.js": "/redoportfolio/static/js/runtime-main.78182adc.js",
+    "runtime-main.js.map": "/redoportfolio/static/js/runtime-main.78182adc.js.map",
+    "static/css/2.e4346227.chunk.css": "/redoportfolio/static/css/2.e4346227.chunk.css",
+    "static/js/2.86c963f3.chunk.js": "/redoportfolio/static/js/2.86c963f3.chunk.js",
+    "static/js/2.86c963f3.chunk.js.map": "/redoportfolio/static/js/2.86c963f3.chunk.js.map",
+    "index.html": "/redoportfolio/index.html",
+    "precache-manifest.427e4b973575c52b781b4616745e4cc0.js": "/redoportfolio/precache-manifest.427e4b973575c52b781b4616745e4cc0.js",
+    "service-worker.js": "/redoportfolio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/redoportfolio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.63f1b847.chunk.css.map": "/redoportfolio/static/css/main.63f1b847.chunk.css.map",
+    "static/js/2.86c963f3.chunk.js.LICENSE.txt": "/redoportfolio/static/js/2.86c963f3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/redoportfolio/static/media/profile.46a0ed09.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cfb73204.js",
+    "static/js/runtime-main.78182adc.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.da453778.chunk.js",
-    "static/css/main.8b97dfe1.chunk.css",
-    "static/js/main.3f4d1cd2.chunk.js"
+    "static/js/2.86c963f3.chunk.js",
+    "static/css/main.63f1b847.chunk.css",
+    "static/js/main.d1f2320d.chunk.js"
   ]
 }
